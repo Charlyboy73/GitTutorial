@@ -16,6 +16,7 @@ struct ContentView: View {
             Text("Development")
                 .font(.largeTitle)
                 .fontWeight(.black)
+            Text("version siguiente a Development A")
         }
         .padding()
         .foregroundColor(.black)
